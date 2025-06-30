@@ -4,3 +4,6 @@ streamlit
 matplotlib
 seaborn
 pickle
+sklearn
+numpy
+scipy
